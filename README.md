@@ -1,5 +1,6 @@
 # imagestock
 
+no beautiful ui, because i'm not ui designer ^^
 
 #  A image stock Flutter project.
 <img width="375" alt="螢幕截圖 2023-06-09 上午12 18 19" src="https://github.com/ivansiuzzz/ImageStock/assets/127587691/264634c6-e58d-4d98-bab7-ce95f4d09add">
