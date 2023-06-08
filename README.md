@@ -13,6 +13,8 @@
 #  Can change Page
 <img width="383" alt="螢幕截圖 2023-06-09 上午12 18 32" src="https://github.com/ivansiuzzz/ImageStock/assets/127587691/cb61be19-6b0a-494a-a758-0c271510edd7">
 
+# will add new feature: add favourite using provider, coming soon
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
