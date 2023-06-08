@@ -1,6 +1,6 @@
 class ImageModel {
-  final int id;
-  final DateTime createdAt;
+  final String id;
+  final String createdAt;
   final String description;
   final String url;
   final String location;
